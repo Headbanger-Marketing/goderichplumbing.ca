@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://goderichplumbing.ca/sitemap-index.xml
